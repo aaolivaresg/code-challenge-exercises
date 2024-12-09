@@ -1,2 +1,4 @@
-package org.leetcode.increasingtripplesubsequence;public class IncreasingTripleSubsequence {
+package org.leetcode.increasingtripplesubsequence;
+
+public class IncreasingTripleSubsequence {
 }
